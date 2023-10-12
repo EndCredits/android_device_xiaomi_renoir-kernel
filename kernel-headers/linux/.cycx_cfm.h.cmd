@@ -1,0 +1,1 @@
+cmd_usr/include/linux/cycx_cfm.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/cycx_cfm.h usr/include/linux/cycx_cfm.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/stm.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/stm.h usr/include/linux/stm.h

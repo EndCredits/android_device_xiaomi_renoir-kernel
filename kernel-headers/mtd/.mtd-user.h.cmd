@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/mtd-user.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/mtd/mtd-user.h usr/include/mtd/mtd-user.h

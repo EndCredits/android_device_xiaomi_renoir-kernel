@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/scsi_netlink_fc.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/scsi/scsi_netlink_fc.h usr/include/scsi/scsi_netlink_fc.h

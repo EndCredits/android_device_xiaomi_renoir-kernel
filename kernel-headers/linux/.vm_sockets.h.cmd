@@ -1,0 +1,1 @@
+cmd_usr/include/linux/vm_sockets.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/vm_sockets.h usr/include/linux/vm_sockets.h

@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/ib_user_ioctl_verbs.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/rdma/ib_user_ioctl_verbs.h usr/include/rdma/ib_user_ioctl_verbs.h

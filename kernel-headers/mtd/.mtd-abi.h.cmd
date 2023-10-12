@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/mtd-abi.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/mtd/mtd-abi.h usr/include/mtd/mtd-abi.h

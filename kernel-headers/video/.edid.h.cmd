@@ -1,0 +1,1 @@
+cmd_usr/include/video/edid.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/video/edid.h usr/include/video/edid.h

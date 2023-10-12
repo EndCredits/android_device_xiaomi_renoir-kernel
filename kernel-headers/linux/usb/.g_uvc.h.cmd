@@ -1,0 +1,1 @@
+cmd_usr/include/linux/usb/g_uvc.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/usb/g_uvc.h usr/include/linux/usb/g_uvc.h

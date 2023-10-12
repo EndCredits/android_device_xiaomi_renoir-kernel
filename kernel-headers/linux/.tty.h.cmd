@@ -1,0 +1,1 @@
+cmd_usr/include/linux/tty.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/tty.h usr/include/linux/tty.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/eavb_shared.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/eavb_shared.h usr/include/linux/eavb_shared.h

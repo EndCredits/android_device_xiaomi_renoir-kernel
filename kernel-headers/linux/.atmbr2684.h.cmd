@@ -1,0 +1,1 @@
+cmd_usr/include/linux/atmbr2684.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/atmbr2684.h usr/include/linux/atmbr2684.h

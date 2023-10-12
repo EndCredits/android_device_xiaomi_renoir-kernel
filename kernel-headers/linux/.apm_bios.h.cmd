@@ -1,0 +1,1 @@
+cmd_usr/include/linux/apm_bios.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/apm_bios.h usr/include/linux/apm_bios.h

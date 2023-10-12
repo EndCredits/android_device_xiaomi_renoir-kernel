@@ -1,0 +1,1 @@
+cmd_usr/include/linux/ispv2_ioparam.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/ispv2_ioparam.h usr/include/linux/ispv2_ioparam.h

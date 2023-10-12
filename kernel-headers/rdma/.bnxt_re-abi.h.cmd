@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/bnxt_re-abi.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/rdma/bnxt_re-abi.h usr/include/rdma/bnxt_re-abi.h

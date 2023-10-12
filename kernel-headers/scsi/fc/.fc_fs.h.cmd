@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/fc/fc_fs.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/scsi/fc/fc_fs.h usr/include/scsi/fc/fc_fs.h

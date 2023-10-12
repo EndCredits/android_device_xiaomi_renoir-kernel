@@ -1,0 +1,1 @@
+cmd_usr/include/linux/xilinx-v4l2-controls.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/xilinx-v4l2-controls.h usr/include/linux/xilinx-v4l2-controls.h

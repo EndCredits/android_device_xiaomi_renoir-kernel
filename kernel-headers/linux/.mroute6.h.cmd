@@ -1,0 +1,1 @@
+cmd_usr/include/linux/mroute6.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/mroute6.h usr/include/linux/mroute6.h

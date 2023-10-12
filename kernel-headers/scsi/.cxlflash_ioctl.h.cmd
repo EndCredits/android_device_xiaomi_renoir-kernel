@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/cxlflash_ioctl.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/scsi/cxlflash_ioctl.h usr/include/scsi/cxlflash_ioctl.h

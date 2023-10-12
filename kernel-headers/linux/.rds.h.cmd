@@ -1,0 +1,1 @@
+cmd_usr/include/linux/rds.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/rds.h usr/include/linux/rds.h

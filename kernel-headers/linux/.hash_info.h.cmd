@@ -1,0 +1,1 @@
+cmd_usr/include/linux/hash_info.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/hash_info.h usr/include/linux/hash_info.h

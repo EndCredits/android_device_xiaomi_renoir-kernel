@@ -1,0 +1,1 @@
+cmd_usr/include/asm-generic/hugetlb_encode.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/asm-generic/hugetlb_encode.h usr/include/asm-generic/hugetlb_encode.h

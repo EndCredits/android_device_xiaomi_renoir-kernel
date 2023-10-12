@@ -1,0 +1,1 @@
+cmd_usr/include/linux/gen_stats.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/gen_stats.h usr/include/linux/gen_stats.h

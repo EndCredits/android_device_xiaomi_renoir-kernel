@@ -1,0 +1,1 @@
+cmd_usr/include/linux/qbt_handler.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/qbt_handler.h usr/include/linux/qbt_handler.h

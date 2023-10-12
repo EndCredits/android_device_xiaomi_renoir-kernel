@@ -1,0 +1,1 @@
+cmd_usr/include/media/msm_cvp_private.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/media/msm_cvp_private.h usr/include/media/msm_cvp_private.h

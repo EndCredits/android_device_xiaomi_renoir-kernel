@@ -1,0 +1,1 @@
+cmd_usr/include/linux/suspend_ioctls.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/suspend_ioctls.h usr/include/linux/suspend_ioctls.h

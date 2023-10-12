@@ -1,0 +1,1 @@
+cmd_usr/include/audio/sound/devdep_params.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/techpack/audio/include/uapi/audio/sound/devdep_params.h usr/include/audio/sound/devdep_params.h

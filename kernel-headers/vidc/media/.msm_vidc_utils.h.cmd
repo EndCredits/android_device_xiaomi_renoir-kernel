@@ -1,0 +1,1 @@
+cmd_usr/include/vidc/media/msm_vidc_utils.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/techpack/video/include/uapi/vidc/media/msm_vidc_utils.h usr/include/vidc/media/msm_vidc_utils.h

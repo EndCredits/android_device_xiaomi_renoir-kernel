@@ -1,0 +1,1 @@
+cmd_usr/include/media/radio-iris-commands.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/media/radio-iris-commands.h usr/include/media/radio-iris-commands.h

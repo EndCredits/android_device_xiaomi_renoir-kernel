@@ -1,0 +1,1 @@
+cmd_usr/include/linux/gfs2_ondisk.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/gfs2_ondisk.h usr/include/linux/gfs2_ondisk.h

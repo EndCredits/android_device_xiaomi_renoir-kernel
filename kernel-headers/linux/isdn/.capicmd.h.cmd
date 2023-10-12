@@ -1,0 +1,1 @@
+cmd_usr/include/linux/isdn/capicmd.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/isdn/capicmd.h usr/include/linux/isdn/capicmd.h

@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/rdma_user_ioctl_cmds.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/rdma/rdma_user_ioctl_cmds.h usr/include/rdma/rdma_user_ioctl_cmds.h

@@ -1,0 +1,1 @@
+cmd_usr/include/sound/sof/abi.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/sound/sof/abi.h usr/include/sound/sof/abi.h

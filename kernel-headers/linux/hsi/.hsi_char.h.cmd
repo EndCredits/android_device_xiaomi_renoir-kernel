@@ -1,0 +1,1 @@
+cmd_usr/include/linux/hsi/hsi_char.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/hsi/hsi_char.h usr/include/linux/hsi/hsi_char.h

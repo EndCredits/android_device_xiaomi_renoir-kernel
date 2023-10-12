@@ -1,0 +1,1 @@
+cmd_usr/include/sound/sof/header.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/sound/sof/header.h usr/include/sound/sof/header.h

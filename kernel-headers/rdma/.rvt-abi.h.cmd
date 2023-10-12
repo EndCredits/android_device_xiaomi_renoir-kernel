@@ -1,0 +1,1 @@
+cmd_usr/include/rdma/rvt-abi.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/rdma/rvt-abi.h usr/include/rdma/rvt-abi.h

@@ -1,0 +1,1 @@
+cmd_usr/include/drm/r128_drm.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/drm/r128_drm.h usr/include/drm/r128_drm.h

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/dvb/ca.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/dvb/ca.h usr/include/linux/dvb/ca.h

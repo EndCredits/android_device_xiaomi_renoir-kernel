@@ -1,0 +1,1 @@
+cmd_usr/include/video/uvesafb.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/video/uvesafb.h usr/include/video/uvesafb.h

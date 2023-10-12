@@ -1,0 +1,1 @@
+cmd_usr/include/linux/netfilter_bridge/ebt_arp.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/netfilter_bridge/ebt_arp.h usr/include/linux/netfilter_bridge/ebt_arp.h

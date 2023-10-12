@@ -1,0 +1,1 @@
+cmd_usr/include/linux/seccomp.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/seccomp.h usr/include/linux/seccomp.h

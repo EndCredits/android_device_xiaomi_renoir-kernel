@@ -1,0 +1,1 @@
+cmd_usr/include/misc/ocxl.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/misc/ocxl.h usr/include/misc/ocxl.h

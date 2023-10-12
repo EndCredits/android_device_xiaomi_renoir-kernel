@@ -1,0 +1,1 @@
+cmd_usr/include/linux/tc_ematch/tc_em_nbyte.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/tc_ematch/tc_em_nbyte.h usr/include/linux/tc_ematch/tc_em_nbyte.h

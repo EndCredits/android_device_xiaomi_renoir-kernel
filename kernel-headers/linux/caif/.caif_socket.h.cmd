@@ -1,0 +1,1 @@
+cmd_usr/include/linux/caif/caif_socket.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/caif/caif_socket.h usr/include/linux/caif/caif_socket.h

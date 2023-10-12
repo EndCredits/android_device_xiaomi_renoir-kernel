@@ -1,0 +1,1 @@
+cmd_usr/include/linux/posix_acl_xattr.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/posix_acl_xattr.h usr/include/linux/posix_acl_xattr.h

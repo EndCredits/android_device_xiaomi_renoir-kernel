@@ -1,0 +1,1 @@
+cmd_usr/include/linux/tc_ematch/tc_em_meta.h := sh /srv/media/micron/kernel/build/kernel/msm-5.4/scripts/headers_install.sh /srv/media/micron/kernel/build/kernel/msm-5.4/include/uapi/linux/tc_ematch/tc_em_meta.h usr/include/linux/tc_ematch/tc_em_meta.h
