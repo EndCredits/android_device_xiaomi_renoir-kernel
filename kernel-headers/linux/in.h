@@ -24,6 +24,9 @@
 #include <linux/socket.h>
 
 #if __UAPI_DEF_IN_IPPROTO
+typedef uint16_t in_port_t;
+typedef uint32_t in_addr_t;
+
 /* Standard well-defined IP protocols.  */
 enum {
   IPPROTO_IP = 0,		/* Dummy protocol for TCP		*/
